@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# dotenv environment variables file
+.env
+
+# Docker
+.env
+.DS_Store
+docker-compose.override.yml
